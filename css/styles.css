@@ -12,7 +12,9 @@ nav{
 }
 header{
     height: 200px;
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
+    background-image: linear-gradient(beige, brown);
+
 }
 .column{
     float: left;
